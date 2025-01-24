@@ -1,5 +1,5 @@
 =======
-SNPhylo
+SNPhylo(replace python2 script with python3)
 =======
 
 Introduction
